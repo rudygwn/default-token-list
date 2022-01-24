@@ -16,7 +16,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+      "",
     keywords: ["milkyswap", "default"],
     tokens: [
       ...mainnet,

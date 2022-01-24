@@ -16,7 +16,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "",
+      "https://raw.githubusercontent.com/",
     keywords: ["milkyswap", "default"],
     tokens: [
       ...mainnet,

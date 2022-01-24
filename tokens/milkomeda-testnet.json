@@ -1,0 +1,19 @@
+[
+    {
+        "chainId": 200101,
+        "address": "0xc44A545FdADfcc544ed92fE649e3CDa572b0C62F",
+        "name": "Token A",
+        "symbol": "A",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      },
+      {
+        "chainId": 200101,
+        "address": "0x712c9220f70F0533099184412837e0d63D4cCEd8",
+        "name": "Token B",
+        "symbol": "B",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      }
+  ]
+  

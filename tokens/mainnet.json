@@ -1,0 +1,26 @@
+[
+  {
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "chainId": 1,
+    "name": "1inch Exchange",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
+  },
+  {
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "chainId": 1,
+    "name": "AAVE",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+  },
+  {
+    "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+    "chainId": 1,
+    "name": "AdEx Network",
+    "symbol": "ADX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/adx.jpg"
+  }
+]

@@ -14,6 +14,14 @@
         "symbol": "B",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      },
+      {
+        "chainId": 200101,
+        "address": "0x1a40217B16E7329E27FDC9cED672e1F264e07Cc2",
+        "name": "Wrapped WADA",
+        "symbol": "WWADA",
+        "decimals": 18,
+        "logoURI": "https://milky-interface.pages.dev/images/tokens/ada-square.png"
       }
   ]
   

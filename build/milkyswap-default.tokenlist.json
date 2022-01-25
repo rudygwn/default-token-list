@@ -1,0 +1,57 @@
+{
+  "name": "MilkySwap Menu",
+  "timestamp": "2022-01-24T23:29:28.351Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/",
+  "keywords": [
+    "milkyswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+      "chainId": 1,
+      "name": "1inch Exchange",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
+    },
+    {
+      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+      "chainId": 1,
+      "name": "AAVE",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+    },
+    {
+      "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+      "chainId": 1,
+      "name": "AdEx Network",
+      "symbol": "ADX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/adx.jpg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0xc44A545FdADfcc544ed92fE649e3CDa572b0C62F",
+      "name": "Token A",
+      "symbol": "A",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x712c9220f70F0533099184412837e0d63D4cCEd8",
+      "name": "Token B",
+      "symbol": "B",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    }
+  ]
+}

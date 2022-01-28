@@ -1,10 +1,10 @@
 {
   "name": "MilkySwap Menu",
-  "timestamp": "2022-01-28T20:05:48.170Z",
+  "timestamp": "2022-01-28T20:57:15.974Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/",
@@ -47,22 +47,6 @@
     },
     {
       "chainId": 200101,
-      "address": "0xc44A545FdADfcc544ed92fE649e3CDa572b0C62F",
-      "name": "Token A",
-      "symbol": "A",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 200101,
-      "address": "0x712c9220f70F0533099184412837e0d63D4cCEd8",
-      "name": "Token B",
-      "symbol": "B",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 200101,
       "address": "0xBb61250008A4e9aD15811260c158F000F020A3Bd",
       "name": "Test Dai Stablecoin",
       "symbol": "DAI-TEST",
@@ -99,7 +83,7 @@
       "name": "Test Wrapped ETH",
       "symbol": "WETH-TEST",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/milkyswap/logos/master/token/eth.jpg"
     },
     {
       "chainId": 200101,

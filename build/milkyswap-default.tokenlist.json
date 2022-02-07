@@ -1,6 +1,6 @@
 {
   "name": "MilkySwap Menu",
-  "timestamp": "2022-01-28T20:57:15.974Z",
+  "timestamp": "2022-02-07T19:57:42.923Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -71,6 +71,14 @@
     },
     {
       "chainId": 200101,
+      "address": "0x65a51E52eCD17B641f8F0D1d56a6c9738951FDC9",
+      "name": "Wrapped ADA",
+      "symbol": "WADA",
+      "decimals": 18,
+      "logoURI": "https://milky-interface.pages.dev/images/tokens/ada-square.png"
+    },
+    {
+      "chainId": 200101,
       "address": "0x314e0914d67B92b689e6e877dbAEeb558C90bDa2",
       "name": "Test Wrapped BTC",
       "symbol": "WBTC-TEST",
@@ -92,14 +100,6 @@
       "symbol": "WSTR-TEST",
       "decimals": 18,
       "logoURI": "https://star.market/favicon/apple-icon-152x152.png"
-    },
-    {
-      "chainId": 200101,
-      "address": "0x4C0Da0478Dea026e26962B1fd69ddf5cFaCe5Ff4",
-      "name": "Wrapped WADA",
-      "symbol": "WWADA",
-      "decimals": 18,
-      "logoURI": "https://milky-interface.pages.dev/images/tokens/ada-square.png"
     }
   ]
 }

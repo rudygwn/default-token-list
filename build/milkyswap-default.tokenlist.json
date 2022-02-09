@@ -1,6 +1,6 @@
 {
   "name": "MilkySwap Menu",
-  "timestamp": "2022-02-07T19:57:42.923Z",
+  "timestamp": "2022-02-09T02:17:30.176Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -38,14 +38,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/adx.jpg"
     },
     {
-      "chainId": 2001,
-      "address": "0x6942F4eD908bF1F294e25497624ad228d178D54C",
-      "name": "Wrapped WADA",
-      "symbol": "WWADA",
-      "decimals": 18,
-      "logoURI": "https://milky-interface.pages.dev/images/tokens/ada-square.png"
-    },
-    {
       "chainId": 200101,
       "address": "0xBb61250008A4e9aD15811260c158F000F020A3Bd",
       "name": "Test Dai Stablecoin",
@@ -55,9 +47,9 @@
     },
     {
       "chainId": 200101,
-      "address": "0x7cd4d16D94Ce9041b88E8e8d817E9eA942bdAD59",
-      "name": "Test USD Coin",
-      "symbol": "USDC-TEST",
+      "address": "0xC12F6Ee5c853393105f29EF0310e61e6B494a70F",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
     },

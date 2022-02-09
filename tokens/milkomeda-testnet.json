@@ -25,9 +25,9 @@
       },
       {
         "chainId": 200101,
-        "address": "0x7cd4d16D94Ce9041b88E8e8d817E9eA942bdAD59",
-        "name": "Test USD Coin",
-        "symbol": "USDC-TEST",
+        "address": "0xC12F6Ee5c853393105f29EF0310e61e6B494a70F",
+        "name": "USD Coin",
+        "symbol": "USDC",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
       },

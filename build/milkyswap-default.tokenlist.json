@@ -1,6 +1,6 @@
 {
   "name": "MilkySwap Menu",
-  "timestamp": "2022-02-09T02:17:30.176Z",
+  "timestamp": "2022-02-09T04:20:37.268Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -13,30 +13,6 @@
     "default"
   ],
   "tokens": [
-    {
-      "address": "0x111111111117dC0aa78b770fA6A738034120C302",
-      "chainId": 1,
-      "name": "1inch Exchange",
-      "symbol": "1INCH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
-    },
-    {
-      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-      "chainId": 1,
-      "name": "AAVE",
-      "symbol": "AAVE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
-    },
-    {
-      "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
-      "chainId": 1,
-      "name": "AdEx Network",
-      "symbol": "ADX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/adx.jpg"
-    },
     {
       "chainId": 200101,
       "address": "0xBb61250008A4e9aD15811260c158F000F020A3Bd",

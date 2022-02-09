@@ -1,6 +1,5 @@
 const { version } = require("../package.json");
 
-const mainnet = require("../tokens/mainnet.json");
 const milkomeda = require("../tokens/milkomeda.json");
 const milkomedaTestnet = require("../tokens/milkomeda-testnet.json");
 
@@ -19,7 +18,6 @@ module.exports = function buildList() {
       "https://raw.githubusercontent.com/",
     keywords: ["milkyswap", "default"],
     tokens: [
-      ...mainnet,
       ...milkomeda,
       ...milkomedaTestnet
     ]

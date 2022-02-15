@@ -62,14 +62,6 @@
         "symbol": "MILKY",
         "decimals": 18,
         "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
-      },
-      {
-        "chainId": 200101,
-        "address": "0xCF8e5f8B7701868Ba71C8E60aEbE211eaAF4eE81",
-        "name": "CreamyToken",
-        "symbol": "CREAMY",
-        "decimals": 18,
-        "logoURI": "https://milky-interface.vercel.app/images/tokens/creamy-square.png"
       }
   ]
   

@@ -1,6 +1,6 @@
 {
   "name": "MilkySwap Menu",
-  "timestamp": "2022-02-15T07:13:06.912Z",
+  "timestamp": "2022-02-15T07:26:43.049Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -13,14 +13,6 @@
     "default"
   ],
   "tokens": [
-    {
-      "chainId": 200101,
-      "address": "0xCF8e5f8B7701868Ba71C8E60aEbE211eaAF4eE81",
-      "name": "CreamyToken",
-      "symbol": "CREAMY",
-      "decimals": 18,
-      "logoURI": "https://milky-interface.vercel.app/images/tokens/creamy-square.png"
-    },
     {
       "chainId": 200101,
       "address": "0xBb61250008A4e9aD15811260c158F000F020A3Bd",

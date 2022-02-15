@@ -54,6 +54,22 @@
         "symbol": "WSTR-TEST",
         "decimals": 18,
         "logoURI": "https://star.market/favicon/apple-icon-152x152.png"
+      },
+      {
+        "chainId": 200101,
+        "address": "0x7642aD41d0fAFd7a42bBC681CFcAA4448DFD3CBc",
+        "name": "MilkyToken",
+        "symbol": "MILKY",
+        "decimals": 18,
+        "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
+      },
+      {
+        "chainId": 200101,
+        "address": "0xCF8e5f8B7701868Ba71C8E60aEbE211eaAF4eE81",
+        "name": "CreamyToken",
+        "symbol": "CREAMY",
+        "decimals": 18,
+        "logoURI": "https://milky-interface.vercel.app/images/tokens/creamy-square.png"
       }
   ]
   

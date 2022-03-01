@@ -15,7 +15,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/",
+      "https://milky-interface.vercel.app/favicon.png",
     keywords: ["milkyswap", "default"],
     tokens: [
       ...milkomeda,

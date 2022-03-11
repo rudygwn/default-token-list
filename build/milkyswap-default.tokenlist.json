@@ -1,6 +1,6 @@
 {
   "name": "MilkySwap Menu",
-  "timestamp": "2022-03-01T20:40:45.418Z",
+  "timestamp": "2022-03-11T19:10:37.899Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -15,24 +15,56 @@
   "tokens": [
     {
       "chainId": 2001,
-      "address": "0xc234A67a4F840E61adE794be47de455361b52413",
-      "name": "Dai Stablecoin",
+      "address": "0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e",
+      "name": "Avalanche - Celer",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg"
+    },
+    {
+      "chainId": 2001,
+      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+      "name": "Binance - Celer",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
+    },
+    {
+      "chainId": 2001,
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "name": "Binance USD - Celer",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+    },
+    {
+      "chainId": 2001,
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "name": "Dai Stablecoin - Celer",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
     },
     {
       "chainId": 2001,
-      "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
-      "name": "USD Coin",
+      "address": "0xc3FEc6F18dDb7583DA572374Ca8d11c6F0590dAe",
+      "name": "Fantom - Celer",
+      "symbol": "FTM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
+    },
+    {
+      "chainId": 2001,
+      "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+      "name": "USD Coin - Celer",
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
     },
     {
       "chainId": 2001,
-      "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
-      "name": "Tether USD",
+      "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+      "name": "Tether USD - Celer",
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
@@ -47,16 +79,16 @@
     },
     {
       "chainId": 2001,
-      "address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
-      "name": "Wrapped BTC",
+      "address": "0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8",
+      "name": "Wrapped BTC - Celer",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
     },
     {
       "chainId": 2001,
-      "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
-      "name": "Wrapped Ether",
+      "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+      "name": "Wrapped Ether - Celer",
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/milkyswap/logos/master/token/eth.jpg"

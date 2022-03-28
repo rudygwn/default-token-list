@@ -83,40 +83,40 @@
   {
     "chainId": 2001,
     "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-    "name": "Tether USD - Anyswap",
-    "symbol": "USDT-any",
+    "name": "Tether USD - Multichain",
+    "symbol": "multiUSDT",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   },
   {
     "chainId": 2001,
     "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-    "name": "USD Coin - Anyswap",
-    "symbol": "USDC-any",
+    "name": "USD Coin - Multichain",
+    "symbol": "multiUSDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
     "chainId": 2001,
     "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-    "name": "Wrapped BTC - Anyswap",
-    "symbol": "WBTC-any",
+    "name": "Wrapped BTC - Multichain",
+    "symbol": "multiWBTC",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   },
   {
     "chainId": 2001,
     "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
-    "name": "Dai Stablecoin - Anyswap",
-    "symbol": "DAI-any",
+    "name": "Dai Stablecoin - Multichain",
+    "symbol": "multiDAI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   },
   {
     "chainId": 2001,
     "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-    "name": "Wrapped Ether - Anyswap",
-    "symbol": "WETH-any",
+    "name": "Wrapped Ether - Multichain",
+    "symbol": "multiWETH",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/milkyswap/logos/master/token/eth.jpg"
   },

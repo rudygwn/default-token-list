@@ -127,5 +127,13 @@
     "symbol": "MILKY",
     "decimals": 18,
     "logoURI": "https://www.milkyswap.exchange/images/tokens/milky-square.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x5a955FDdF055F2dE3281d99718f5f1531744B102",
+    "name": "USD Coin - Nomad",
+    "symbol": "nomadUSDC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   }
 ]

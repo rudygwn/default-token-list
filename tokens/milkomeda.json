@@ -122,6 +122,38 @@
   },
   {
     "chainId": 2001,
+    "address": "0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+    "name": "Fantom - Multichain",
+    "symbol": "multiFTM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+    "name": "Avalanche - Multichain",
+    "symbol": "multiAVAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+    "name": "Binance USD - Multichain",
+    "symbol": "multiBUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+    "name": "Binance - Multichain",
+    "symbol": "multiBNB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
+  },
+  {
+    "chainId": 2001,
     "address": "0x063A5E4cD5e15ac66ea47134Eb60e6b30A51B2bf",
     "name": "MilkySwap Token",
     "symbol": "MILKY",

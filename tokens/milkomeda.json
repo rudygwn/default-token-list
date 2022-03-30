@@ -167,5 +167,13 @@
     "symbol": "nomadUSDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0xFe44459DE6a1c843F5F7A92e2f667e21b6815F1E",
+    "name": "MilkMoon",
+    "symbol": "MMN",
+    "decimals": 9,
+    "logoURI": "https://milkmoon.space/logo.png"
   }
 ]

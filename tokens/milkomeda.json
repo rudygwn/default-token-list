@@ -188,8 +188,32 @@
     "chainId": 2001,
     "address": "0xb3AF878CCd6f523F39A8e29554267ce188e3380E",
     "name": "MilkMan",
-    "symbol": "MilkM",
+    "symbol": "MILKM",
     "decimals": 6,
     "logoURI": "https://i.imgur.com/8tKQPTJ.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0xDD3c970fe7008fc247A72ebA35157936F7acf588",
+    "name": "MILKSHAKE",
+    "symbol": "MSHAKE",
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/aIMj6MK.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x8684edd3014CEE0Fed4F1608b4B9bdaA96dFDad5",
+    "name": "Milk Shiba",
+    "symbol": "MSHIB",
+    "decimals": 5,
+    "logoURI": "https://i.ibb.co/BfrG7Vy/very-white-2.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x192Ae87B0433d38E018BCb6EBe31ecC899212E32",
+    "name": "Baby Milky",
+    "symbol": "BABYMILKY",
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/L8KwjKm/babymilklogo1.png"
   }
 ]

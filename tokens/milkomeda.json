@@ -231,5 +231,13 @@
     "symbol": "MILAIKA",
     "decimals": 0,
     "logoURI": "https://cdn-106.anonfiles.com/j8GeDeS2xd/e70288c6-1648830594/doglog.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0xE032A3b3EfE2e9eD287D9465a9F0B5A6Cd77cb5b",
+    "name": "Earnada",
+    "symbol": "EADA",
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/BcJmBP4/IMG-20220401-212427-098.png"
   }
 ]

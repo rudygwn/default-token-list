@@ -182,7 +182,7 @@
     "name": "Mommys Milk",
     "symbol": "MOMMY",
     "decimals": 18,
-    "logoURI": "https://i.imgur.com/hWaLNrl.jpeg"
+    "logoURI": "https://i.imgur.com/sBfRrJ5.jpeg"
   },
   {
     "chainId": 2001,
@@ -206,7 +206,7 @@
     "name": "Milk Shiba",
     "symbol": "MSHIB",
     "decimals": 5,
-    "logoURI": "https://i.ibb.co/BfrG7Vy/very-white-2.png"
+    "logoURI": "https://i.ibb.co/WDV5cJd/log-512.png"
   },
   {
     "chainId": 2001,
@@ -215,5 +215,21 @@
     "symbol": "BABYMILKY",
     "decimals": 18,
     "logoURI": "https://i.ibb.co/L8KwjKm/babymilklogo1.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0xFC5B491ade841f3190D48B05C7Cbba6E3D4c8caf",
+    "name": "MilkETH",
+    "symbol": "METH",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/lMIFPzo.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x160Ea202902257B6E6f5BA56C09dA8d3E22A36E8",
+    "name": "Milaika",
+    "symbol": "MILAIKA",
+    "decimals": 0,
+    "logoURI": "https://cdn-106.anonfiles.com/j8GeDeS2xd/e70288c6-1648830594/doglog.png"
   }
 ]

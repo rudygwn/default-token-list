@@ -221,7 +221,7 @@
     "address": "0xFC5B491ade841f3190D48B05C7Cbba6E3D4c8caf",
     "name": "MilkETH",
     "symbol": "METH",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://i.imgur.com/lMIFPzo.png"
   },
   {
@@ -239,5 +239,13 @@
     "symbol": "EADA",
     "decimals": 18,
     "logoURI": "https://i.ibb.co/BcJmBP4/IMG-20220401-212427-098.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x32daDa3610F354C63be8E93E1e3f53d404A270aE",
+    "name": "Goat Milk Token",
+    "symbol": "GOATM",
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/8K4gJ0z/goatmilktoken.png"
   }
 ]

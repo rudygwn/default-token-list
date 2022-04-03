@@ -256,4 +256,12 @@
     "decimals": 18,
     "logoURI": "https://i.ibb.co/8K4gJ0z/goatmilktoken.png"
   }
+  {
+    "chainId": 2001,
+    "address": "0x20D63B9916B13C0114B21a2585d29772d6887Fc5",
+    "name": "Temple of Milk",
+    "symbol": "TEMPLE",
+    "decimals": 9,
+    "logoURI": "https://i.ibb.co/6BMsyGQ/templeofmilk.png"
+  }
 ]

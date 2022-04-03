@@ -255,7 +255,7 @@
     "symbol": "GOATM",
     "decimals": 18,
     "logoURI": "https://i.ibb.co/8K4gJ0z/goatmilktoken.png"
-  }
+  },
   {
     "chainId": 2001,
     "address": "0x20D63B9916B13C0114B21a2585d29772d6887Fc5",
@@ -263,5 +263,13 @@
     "symbol": "TEMPLE",
     "decimals": 9,
     "logoURI": "https://i.ibb.co/6BMsyGQ/templeofmilk.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0xf09D2bBD1Aa00eb8d24f9005E56689bE372E2122",
+    "name": "SAFEMILK",
+    "symbol": "SAFEMILK",
+    "decimals": 9,
+    "logoURI": "https://imgur.com/a/RQUPG45.png"
   }
 ]

@@ -271,5 +271,37 @@
     "symbol": "SAFEMILK",
     "decimals": 9,
     "logoURI": "https://i.imgur.com/XkHHWZI.jpeg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x6b7a87899490EcE95443e979cA9485CBE7E71522",
+    "name": "SAND",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+    "name": "Axie Infinity Shard",
+    "symbol": "AXS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/axs.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
+    "name": "Decentraland MANA",
+    "symbol": "MANA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mana.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png"
   }
 ]

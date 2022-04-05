@@ -186,14 +186,6 @@
   },
   {
     "chainId": 2001,
-    "address": "0x060163a14C1BbAf72f9f6b55268AD410B56eA23E",
-    "name": "Mommys Milk",
-    "symbol": "MOMMY",
-    "decimals": 18,
-    "logoURI": "https://i.imgur.com/sBfRrJ5.jpeg"
-  },
-  {
-    "chainId": 2001,
     "address": "0xb3AF878CCd6f523F39A8e29554267ce188e3380E",
     "name": "MilkMan",
     "symbol": "MILKM",

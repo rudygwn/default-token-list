@@ -311,5 +311,13 @@
     "symbol": "MKR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x850d304cFD2dBb9fC990b47f8e444cc18E38ff67",
+    "name": "Milkdoge",
+    "symbol": "MOGE",
+    "decimals": 9,
+    "logoURI": "https://i.ibb.co/4KvHpmt/milkdoge-logo-small.png"
   }
 ]

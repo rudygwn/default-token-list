@@ -311,7 +311,7 @@
     "symbol": "MCINU",
     "decimals": 9,
     "logoURI": "https://i.ibb.co/ZWc1jX4/22-04-04-16-11-58-619-200x200.png"
-  },  
+  },
   {
     "chainId": 2001,
     "address": "0x850d304cFD2dBb9fC990b47f8e444cc18E38ff67",
@@ -327,5 +327,13 @@
     "symbol": "FLOKIM",
     "decimals": 9,
     "logoURI": "https://i.ibb.co/dbmZ6zp/flokimilk.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x8930020f4779Bfeca31a5c323201dAEc0E0FD04d",
+    "name": "SafeMoo",
+    "symbol": "MOO",
+    "decimals": 9,
+    "logoURI": "https://i.ibb.co/DgxTWFH/safemoo.jpg"
   }
 ]

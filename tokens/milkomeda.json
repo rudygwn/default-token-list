@@ -311,5 +311,13 @@
     "symbol": "MOGE",
     "decimals": 9,
     "logoURI": "https://i.ibb.co/4KvHpmt/milkdoge-logo-small.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x0a3C1ae06AD9FD8C493516aEd07d02E839ee22f7",
+    "name": "FlokiMilk",
+    "symbol": "FLOKIM",
+    "decimals": 9,
+    "logoURI": "https://i.ibb.co/dbmZ6zp/flokimilk.png"
   }
 ]

@@ -64,7 +64,7 @@
     "logoURI": "https://milky-interface.vercel.app/images/tokens/milky-square.png"
   },
   {
-    "chainId": 2001,
+    "chainId": 200101,
     "address": "0x8930020f4779Bfeca31a5c323201dAEc0E0FD04d",
     "name": "SafeMoo",
     "symbol": "MOO",

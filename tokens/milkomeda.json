@@ -335,5 +335,13 @@
     "symbol": "FLOKIM",
     "decimals": 9,
     "logoURI": "https://i.ibb.co/dbmZ6zp/flokimilk.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x9607a9966ed63634dFB34417a20c9F1D74Fbd1ec",
+    "name": "Milky Nodes",
+    "symbol": "$MNODE",
+    "decimals": 9,
+    "logoURI": "https://www.milkynodes.com/images/logo.png"
   }
 ]

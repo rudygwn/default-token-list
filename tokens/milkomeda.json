@@ -338,14 +338,13 @@
   },
   {
     "chainId": 2001,
-<<<<<<< HEAD
     "address": "0x8930020f4779Bfeca31a5c323201dAEc0E0FD04d",
     "name": "SafeMoo",
     "symbol": "MOO",
     "decimals": 9,
     "logoURI": "https://i.ibb.co/DgxTWFH/safemoo.jpg"
-  }
-=======
+  },
+  {
     "address": "0x9607a9966ed63634dFB34417a20c9F1D74Fbd1ec",
     "name": "Milky Nodes",
     "symbol": "$MNODE",
@@ -359,6 +358,5 @@
     "symbol": "$wagmi",
     "decimals": 18,
     "logoURI": "https://i.ibb.co/n6vDQwQ/x4e-FU3x-400x400.jpg"
-    }
->>>>>>> cadd8c8e542411e04a6f32d26de935245c4476a3
+  }
 ]

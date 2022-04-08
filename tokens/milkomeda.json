@@ -1,6 +1,14 @@
 [
   {
     "chainId": 2001,
+    "address": "0xbd01b2CF2c514c7eC90827b8346354bb4f7832ab",
+    "name": "Milky Cow",
+    "symbol": "COW",
+    "decimals": 18,
+    "logoURI": "https://app.defi-milkycow.com/images/farms/cow.png"
+  },
+  {
+    "chainId": 2001,
     "address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
     "name": "Wrapped ADA",
     "symbol": "WADA",

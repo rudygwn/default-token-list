@@ -343,5 +343,13 @@
     "symbol": "$MNODE",
     "decimals": 9,
     "logoURI": "https://www.milkynodes.com/images/logo.png"
-  }
+  },
+  {
+    "chainId": 2001,
+    "address": "0x404719fe8Ec766cf38cEFBE732dd3A03A249FC11",
+    "name": "WAGMI",
+    "symbol": "$wagmi",
+    "decimals": 18,
+    "logoURI": "https://i.ibb.co/n6vDQwQ/x4e-FU3x-400x400.jpg"
+    }
 ]

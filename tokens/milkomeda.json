@@ -368,3 +368,11 @@
     "logoURI": "https://i.imgur.com/3mnxKFi.png"
    }
 ]
+{
+    "chainId": 2001,
+    "address": "0x1a9b93e1364439fADc85E445de7a58aB3012eED5",
+    "name": "SAFEMILK",
+    "symbol": "SAFEMILK",
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/2zHJNQm.png"
+  }

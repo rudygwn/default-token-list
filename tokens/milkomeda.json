@@ -375,6 +375,14 @@
     "symbol": "SAFEMLK",
     "decimals": 9,
     "logoURI": "https://i.imgur.com/2zHJNQm.png"
+  },
+  {
+    "chainId": 2001,
+    "address": "0x4D5C63c07463EFa5bb26EE0A6D8C39dd0e3DaBD9",
+    "name": "World Mobile Token",
+    "symbol": "WMT",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png"
   }
 ]
 
